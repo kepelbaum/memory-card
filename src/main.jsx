@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import Memory from './memorycard.jsx'
+import Memory from './components/memorycard.jsx'
 import './styles/styles.css';
 import './index.css'
 
